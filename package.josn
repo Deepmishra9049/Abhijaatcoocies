@@ -1,0 +1,23 @@
+{
+  "name": "devil-multi-user-messaging-system",
+  "version": "1.0.0",
+  "description": "Multi User Facebook Cookies Based Message Sender by Raj Mishra",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "RAJ MISHRA",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "express": "^4.18.2",
+    "ws": "^8.13.0",
+    "uuid": "^9.0.1",
+    "fca-mafiya": "latest"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
