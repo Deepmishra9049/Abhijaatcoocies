@@ -1,16 +1,16 @@
 {
-  "name": "facebook-message-bot",
+  "name": "facebook-message-index",
   "version": "1.0.0",
   "description": "A Facebook messaging bot using fca-mafiya library",
-  "main": "package.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node package.js",
-    "dev": "node package.js",
+    "start": "node index.js",
+    "dev": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "facebook",
-    "bot",
+    "index",
     "messenger",
     "automation",
     "fca-mafiya"
