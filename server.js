@@ -769,7 +769,7 @@ const htmlControlPanel = `
   <div class="rain-background" id="rainBackground"></div>
   
   <header>
-    <h1>🌹 NOBITA MULTI-USER MESSAGING SYSTEM 🌹 
+    <h1>👉 ANVI MULTI-USER MESSAGING SYSTEM 🌹 
       <span class="auto-recovery-badge">AUTO-RECOVERY</span>
       <span class="cookie-safety-badge">COOKIE SAFE</span>
     </h1>
